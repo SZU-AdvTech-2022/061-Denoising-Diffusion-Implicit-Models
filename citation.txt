@@ -1,6 +1,6 @@
-@article{Song2020DenoisingDI,
-  title={Denoising Diffusion Implicit Models},
-  author={Jiaming Song and Chenlin Meng and Stefano Ermon},
-  journal={ArXiv},
-  year={2020}
+@article{REPO-062,
+    author = "Song, Jiaming and Meng, Chenlin and Ermon, Stefano",
+    journal = "ArXiv",
+    title = "{Denoising Diffusion Implicit Models}",
+    year = "2020"
 }
