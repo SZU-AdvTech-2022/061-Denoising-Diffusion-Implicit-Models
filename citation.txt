@@ -1,0 +1,6 @@
+@article{REPO-062,
+    author = "Song, Jiaming and Meng, Chenlin and Ermon, Stefano",
+    journal = "ArXiv",
+    title = "{Denoising Diffusion Implicit Models}",
+    year = "2020"
+}
